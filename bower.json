@@ -1,0 +1,15 @@
+{
+  "name": "texnikru/GeoLite2-Database",
+  "version": "0.0.0",
+  "homepage": "https://github.com/texnikru/GeoLite2-Database",
+  "authors": [
+    "n/a"
+  ],
+  "description": "Mirror of http://dev.maxmind.com/geoip/legacy/geolite/",
+  "keywords": [
+    "geoip2",
+    "database",
+    "bower"
+  ],
+  "license": "MIT"
+}
